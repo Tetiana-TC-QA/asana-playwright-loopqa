@@ -14,6 +14,7 @@ The test suite validates that tasks appear in the correct project board column a
 
 ## Project Structure
 
+```text
 asana-pw-loopqa/
 ├── data/
 │   └── testCasesData.json    # All 6 test scenarios as data — no test code duplication
@@ -26,6 +27,7 @@ asana-pw-loopqa/
 ├── tsconfig.json
 └── package.json
 └── README.md
+```
 
 ## Setup
 
